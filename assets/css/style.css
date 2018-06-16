@@ -1,0 +1,127 @@
+body {
+    background-image: url('../images/WorldCup2018Wallpaper.jpg');
+    font-family: 'Russo One', sans-serif;
+    color: rgb(217, 212, 115);
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(11, 11, 134);
+}
+#start-btn{
+    font-size: 20px;
+    color:white;
+    background: black;
+    height:100px;
+    width:200px;
+
+}
+#sub-but{
+    color: rgb(217, 212, 115);
+    background: black;
+}
+#splashscreen {
+    background-color:white;
+    background-repeat: no-repeat;
+    width: 70%;
+    margin:auto;
+    border-radius: 5px;
+}
+
+.black-background {
+    background-color: #000000;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.splashBox {
+    font-size:20px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 4%;
+    margin-top: 40%;
+}
+
+.splashBox2 {
+    margin: 0 auto;
+    text-align: center;
+    padding: 4%;
+}
+
+.wrongBox {
+    margin: 0 auto;
+    text-align: center;
+    padding: 4%;
+}
+
+label {
+    color:rgb(217, 212, 115);
+}
+
+#answerScreen {
+    display: none;
+    background-color:white;
+    background-repeat: no-repeat;
+    width: 40%;
+    margin: 0 auto;
+    padding: 2%;
+    margin-top: 15%;
+    font-size: 21px;
+}
+
+#timesUp {
+    display: none;
+    background-color:white;
+    background-repeat: no-repeat;
+    width: 35%;
+    margin: 0 auto;
+    padding: 2%;
+    margin-top: 15%;
+    font-size: 21px;
+}
+
+.up {
+    color: red;
+}
+
+.timeRemain {
+    font-size: 40px;
+    padding: 2%;
+    color: red;
+}
+
+.timeRemain #time-remain {
+    font-size: 60px;
+}
+
+body .container {
+    background-color:white;
+    height: 100%;
+    text-align: center;
+    display: none;
+    margin-bottom: 5%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.questions {
+    color:black;
+    font-size: 25px;
+}
+
+.ques,
+label {
+    padding: 1%;
+}
+
+header {
+    font-size: 60px;
+    color:rgb(11, 11, 134);
+    margin-top: 2%;
+}
