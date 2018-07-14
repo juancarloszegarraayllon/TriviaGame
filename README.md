@@ -4,7 +4,7 @@ Create a trivia game using JavaScript for the logic and jQuery to manipulate HTM
 
 #How you solved it
  Created layout with:
-  Pictures
+  Pictures.
   Multiple choice.
   Timer to finish the quiz. 
   Page to reveal the number of questions that players answer correctly and incorrectly.
