@@ -11,7 +11,7 @@ Create a trivia game using JavaScript for the logic and jQuery to manipulate HTM
  Worked on capturing the data to validate the correct answer.
 
 #Technical approach
-Layout with: HTM and CSS and Bootstrap.
+Layout with: HTML and CSS and Bootstrap.
 Capured the data using JQuery.
 Validated the correct answers using JavaScript.
 Timer using JavaScript.
